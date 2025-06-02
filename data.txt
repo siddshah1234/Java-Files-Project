@@ -1,0 +1,4 @@
+josh,60.0,20.0
+2,2.0,2.0
+mack,100.0,200.0
+james charles hilglendorf,70.0,80.0
